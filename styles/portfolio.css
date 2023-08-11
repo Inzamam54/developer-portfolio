@@ -2,6 +2,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0px 200px;
 }
 
 body {
@@ -40,4 +41,15 @@ li a {
   font-weight: 700;
   line-height: normal;
   padding: 18px 35px;
+}
+
+.header {
+  background: #fff8f3;
+}
+.banner {
+  padding: 30px 30px 30px 150px;
+  display: flex;
+}
+.profile-pic {
+  width: 584px;
 }
